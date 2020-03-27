@@ -20,7 +20,7 @@ int main()
             if (A[i][j] % 2 != 0){
                 k++;
             }
-        if (k == 5){
+        if (k == M){
                 printf("\n");
                 for(i = 0; i < M; i++)
                     printf("%d\n", A[i][j]);
