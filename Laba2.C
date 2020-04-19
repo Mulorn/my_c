@@ -143,7 +143,7 @@ int main()
 {
 	Node * s;
 	s = NULL;
-	int n, o = 42;
+	int n, o = 50;
 	{
 		while (o != 0){
 			mainmenu();
